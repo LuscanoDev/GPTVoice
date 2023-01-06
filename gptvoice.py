@@ -1,5 +1,3 @@
-# BY CHATGPT 
-
 import pyttsx3
 import tkinter as tk
 import openai
