@@ -20,6 +20,7 @@ Run the chatbot by executing the code in a Python interpreter.
 Type your question into the text field and press Enter or click the "Send" button.
 The chatbot will generate a response using GPT-3 and speak it out loud.
 <h3>Notes</h3>
+
 The GPT-3 model used in this chatbot is the "text-davinci-003" model, which has a maximum of 1024 tokens.
 The chatbot's response may be truncated if it exceeds the maximum number of tokens.
 The text-to-speech functionality may not work on all systems.
